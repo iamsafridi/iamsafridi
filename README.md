@@ -2,6 +2,10 @@
   <img height="150" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgyMjkzOTQsIm5iZiI6MTcwODIyOTA5NCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE4VDA0MDQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmMTI5ZjE3YjAzYmE5ZTMwMzVlYWY3YzFhMjJhYjIwNWMxMWMxOTZlY2QyNDFhMWY3NDllMGUyMDYxYzc4OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2NAkJmzunZvsRrzqvsIUTnCZH4HsHNU27tuys9MDf78"  />
 </div>
 
+# Shahid Afridi
+
+## Software Quality Assurance (SQA) Engineer
+
 ###
 
 <div align="center">
@@ -30,7 +34,17 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Shahid Afridi from Bangladesh<br><br>- 🔭 I’m working as SQA Engineer<br>- 📚 I'm currently learning Automation Testing<br>- ⚡ In my free time I love to watch Movies/Series</p>
+
+###
+
+### 🚀 Skills
+
+- **Testing:** Proficient in manual testing of Web Applications and Mobile Apps (Android & iOS).
+- **Tools:** Familiar with Jira, and experienced with API testing.
+- **Database:** Knowledge of SQL and Relational Databases.
+- **Performance Testing:** Exposure to tools like JMeter.
+- **Communication:** Strong verbal and written communication skills.
 
 ###
 
